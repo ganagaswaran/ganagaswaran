@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganagaswaran
 - 👀 I’m interested in game development programming
-- 🌱 I’m currently learning how to create games with java 
+- 🌱 I’m currently learning how to create games with C++ using Unreal Engine
 - 📫 How to reach me ganagaswaran@gmail.com
 
 <!---
